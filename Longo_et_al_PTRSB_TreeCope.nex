@@ -1,0 +1,57 @@
+#NEXUS
+[written Mon Jun 20 13:51:35 EDT 2011 by Mesquite  version 2.74 (build 550) at Anita-PC/192.168.2.4]
+BEGIN TREES;
+	Title Trees;
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 Atelopus_zeteki,
+		2 Bolitoglossa_colonnea,
+		3 Bolitoglossa_schizodactyla,
+		4 Cochranella_euknemos,
+		5 Colostethus_panamansis,
+		6 Colostethus_pratti,
+		7 Craugastor_azueroensis,
+		8 Craugastor_bransfordii,
+		9 Craugastor_crassidigitus,
+		10 Craugastor_gollmeri,
+		11 Craugastor_megacephalus,
+		12 Craugastor_noblei,
+		13 Craugastor_punctariolus,
+		14 Craugastor_tabasarae,
+		15 Craugastor_talamancae,
+		16 Dendrobates_auratus,
+		17 Diasporus_diastema,
+		18 Diasporus_vocator,
+		19 Ecnomiohyla_miliaria,
+		20 Espadarana_prosoblepon,
+		21 Gastrotheca_cornuta,
+		22 Hyalinobatrachium_colymbiphyllum,
+		23 Hylomantis_lemur,
+		24 Hyloscirtus_colymba,
+		25 Hyloscirtus_palmeri,
+		26 Incilius_coniferus,
+		27 Leptodactylus_pentadactylus,
+		28 Lithobates_warszewitschii,
+		29 Nelsonophryne_aterrima,
+		30 Pristimantis_caryophyllaceus,
+		31 Pristimantis_cerasinus,
+		32 Pristimantis_cruentus,
+		33 Pristimantis_gaigeae,
+		34 Pristimantis_museosus,
+		35 Pristimantis_pardalis,
+		36 Pristimantis_ridens,
+		37 Rhaebo_haematiticus,
+		38 Rhinella_marina,
+		39 Sachatamia_albomaculata,
+		40 Sachatamia_ilex,
+		41 Silverstoneia_flotator,
+		42 Silverstoneia_nubicola,
+		43 Smilisca_phaeota,
+		44 Smilisca_sila,
+		45 Strabomantis_bufoniformis;
+	TREE ElCopeTree = ((((((((((((15,9),14),(13,(7,11))),((12,10),8))Craugastoridae,((((((34,32),30),(31,36)),33),35),45)Strabomantidae),(18,17)Eleutherodactylidae),(((6,5),(41,42)),16)),21),(((((4,20),(40,39)),22)Centrolenidae,(((26,38),37),1)Bufonidae),((24,25),(23,((43,44),19)))Hylidae)),27),(29,28)),(2,3)Plethodontidae)[% ] [% ] [%  setBetweenBits = selected ];
+
+END;
+
+
+
